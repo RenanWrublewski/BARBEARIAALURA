@@ -12,7 +12,7 @@ body{
 h1{
   text-align:center;
 }
-p{
+p {
     text-align: center;
 }
 em strong{
@@ -26,8 +26,20 @@ em strong{
 }
 .beneficios{
   background: #ffffff;
-  pading: 20px;
+  padding: 20px;
 }
 em strong{
     color:rgb(11, 43, 43)
+}
+h2 {
+  text-align: center;
+}
+ul{
+  display:inline-block;
+  vertical-align: top;
+  width:20%;
+  margin-right:15%
+}
+.imagembeneficios{
+  width:50%;
 }
